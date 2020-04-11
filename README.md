@@ -27,7 +27,7 @@ slackAPItoken = "YOUR-LEGACY-API-TOKEN-HERE"
 Uncomment hardcoded toChannel variable in forward.py
 
 ## Issues
-Create issues to request improvemnt
+Create issues for improvements and suggestions
 
 ## PRs
 Most Welcome
